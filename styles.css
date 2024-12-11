@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(214, 248, 237);
+}
+.MainBox{
+    width: 1000px;
+    border: 3px solid green;
+    background-color: white;
+    padding: 20px;
+    text-align: left;
+    
+}
+nav a:link {
+    color: blue;
+    text-decoration: none;
+
+}
+nav a:visited {
+    color: orange;
+    text-decoration: none;
+
+}
+h3{
+    color: yellowgreen;
+    font-weight: 900;
+    font-family: fantasy;
+    text-align: left;
+    
+}
+h1{
+    color: yellowgreen;
+    font-weight: 900;
+    font-family: fantasy;
+}
+h4{
+    color: yellowgreen;
+    font-weight: 900;
+    font-family: fantasy;
+}
+.EventBox{
+    width: 880px;
+    background-color: rgb(191, 237, 221);
+    border: 3px dotted orange;
+}
+
+li{
+    color: grey;
+    text-align: left;
+}
+main a:visited {
+    color: orange;
+}
+main a:link {
+    color: blueviolet;
+}
+.Event2Box{
+    width: 950px;
+    border: 4px solid orange;
+    border-radius: 10px;
+}
+p {
+    text-align: left;
+    line-height: 150%;
+}
+.font{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:firebrick;
+    text-decoration: dotted;
+}
+.section5 {
+    color: green;
+    text-decoration:underline;
+
+}
+.FirstWord {
+    font-size: x-large;
+    color: rgb(85, 59, 11);
+}
+.Column {
+    columns: 300px;
+    column-width: 7cm;
+}
